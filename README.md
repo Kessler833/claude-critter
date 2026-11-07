@@ -2,6 +2,10 @@
 
 A tiny, tokenless desktop pet that lives in the **Claude desktop app** on Windows. It walks on the UI, reacts to everything Claude and you do, and never costs a single token.
 
+[![Watch the Claude Critter video](https://img.youtube.com/vi/amQ88J_k5Ko/maxresdefault.jpg)](https://www.youtube.com/watch?v=amQ88J_k5Ko)
+
+▶ **[Watch the video on YouTube](https://www.youtube.com/watch?v=amQ88J_k5Ko)**
+
 ## What it does
 
 - **Works along with Claude.** It grabs a book while Claude reads, a magnifier while it searches, a pencil while it edits and a little CPU while commands run.
