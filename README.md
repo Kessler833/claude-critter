@@ -2,8 +2,6 @@
 
 A tiny, tokenless desktop pet that lives in the **Claude desktop app** on Windows. It walks on the UI, reacts to everything Claude and you do, and never costs a single token.
 
-> Demo video and GIF gallery are coming soon.
-
 ## What it does
 
 - **Works along with Claude.** It grabs a book while Claude reads, a magnifier while it searches, a pencil while it edits and a little CPU while commands run.
@@ -14,6 +12,18 @@ A tiny, tokenless desktop pet that lives in the **Claude desktop app** on Window
 - **Plays.** Pet it (not too much), grab and throw it, play fetch with the ball, watch it portal onto a code block or crash through the sidebar wall.
 - **Builds things.** Flags, flowers and block towers. Click them to smash them (it will sulk).
 - **Has a mind of its own.** When nothing happens it picks its own idle activities and avoids repeating itself. It naps when you are away.
+
+## Gallery
+
+| | |
+|---|---|
+| <img src="gallery/follows-your-typing.gif" width="400" alt="Follows your typing"><br>Follows your typing | <img src="gallery/reads-along.gif" width="400" alt="Reads along"><br>Reads along |
+| <img src="gallery/waits-for-permission.gif" width="400" alt="Waits for your OK"><br>Waits for your OK | <img src="gallery/celebrates-tests.gif" width="400" alt="Celebrates tests"><br>Celebrates tests |
+| <img src="gallery/subagents-walk-in.gif" width="400" alt="Subagents walk in"><br>Subagents walk in | <img src="gallery/loves-pets-mostly.gif" width="400" alt="Loves pets. Mostly."><br>Loves pets. Mostly. |
+| <img src="gallery/plays-fetch.gif" width="400" alt="Plays fetch"><br>Plays fetch | <img src="gallery/grab-and-throw.gif" width="400" alt="Grab and throw"><br>Grab and throw |
+| <img src="gallery/portals-onto-code.gif" width="400" alt="Portals onto code"><br>Portals onto code | <img src="gallery/crashes-through-walls.gif" width="400" alt="Crashes through walls"><br>Crashes through walls |
+| <img src="gallery/hyperfocus-mode.gif" width="400" alt="Hyperfocus mode"><br>Hyperfocus mode | <img src="gallery/sulks-when-you-smash.gif" width="400" alt="Sulks when you smash his tower"><br>Sulks when you smash his tower |
+| <img src="gallery/naps.gif" width="400" alt="Naps"><br>Naps |  |
 
 ## Privacy and cost
 
