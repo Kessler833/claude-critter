@@ -1,0 +1,7 @@
+# Claude Critter
+
+> A tiny, tokenless desktop pet for the Claude desktop app on Windows. Claude Code plugin + Python overlay. Reacts to Claude's tools, permission requests, tests, commits and subagents. No screenshots, no model calls.
+
+- [README](https://github.com/Kessler833/claude-critter/blob/main/README.md): features, install, use
+- [AGENTS.md](https://github.com/Kessler833/claude-critter/blob/main/AGENTS.md): exact install steps for agents
+- [Installer](https://raw.githubusercontent.com/Kessler833/claude-critter/main/install.ps1): one-line PowerShell installer
