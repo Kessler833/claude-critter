@@ -13,18 +13,6 @@ A tiny, tokenless desktop pet that lives in the **Claude desktop app** on Window
 - **Builds things.** Flags, flowers and block towers. Click them to smash them (it will sulk).
 - **Has a mind of its own.** When nothing happens it picks its own idle activities and avoids repeating itself. It naps when you are away.
 
-## Gallery
-
-| | |
-|---|---|
-| <img src="gallery/follows-your-typing.gif" width="400" alt="Follows your typing"><br>Follows your typing | <img src="gallery/reads-along.gif" width="400" alt="Reads along"><br>Reads along |
-| <img src="gallery/waits-for-permission.gif" width="400" alt="Waits for your OK"><br>Waits for your OK | <img src="gallery/celebrates-tests.gif" width="400" alt="Celebrates tests"><br>Celebrates tests |
-| <img src="gallery/subagents-walk-in.gif" width="400" alt="Subagents walk in"><br>Subagents walk in | <img src="gallery/loves-pets-mostly.gif" width="400" alt="Loves pets. Mostly."><br>Loves pets. Mostly. |
-| <img src="gallery/plays-fetch.gif" width="400" alt="Plays fetch"><br>Plays fetch | <img src="gallery/grab-and-throw.gif" width="400" alt="Grab and throw"><br>Grab and throw |
-| <img src="gallery/portals-onto-code.gif" width="400" alt="Portals onto code"><br>Portals onto code | <img src="gallery/crashes-through-walls.gif" width="400" alt="Crashes through walls"><br>Crashes through walls |
-| <img src="gallery/hyperfocus-mode.gif" width="400" alt="Hyperfocus mode"><br>Hyperfocus mode | <img src="gallery/sulks-when-you-smash.gif" width="400" alt="Sulks when you smash his tower"><br>Sulks when you smash his tower |
-| <img src="gallery/naps.gif" width="400" alt="Naps"><br>Naps |  |
-
 ## Privacy and cost
 
 - **Zero tokens.** The plugin never calls a model.
@@ -77,6 +65,14 @@ claude plugin marketplace remove claude-critter
 
 - Windows only.
 - Some UI reactions (sidebar status rows, standing on messages) match the Claude app's UI labels and are currently tuned for the German app language. With other languages the critter still works, but uses fewer platforms.
+
+## Gallery
+
+| | | | | |
+|---|---|---|---|---|
+| <img src="gallery/follows-your-typing.gif" width="180" alt="Follows your typing"><br><sub>Follows your typing</sub> | <img src="gallery/reads-along.gif" width="180" alt="Reads along"><br><sub>Reads along</sub> | <img src="gallery/waits-for-permission.gif" width="180" alt="Waits for your OK"><br><sub>Waits for your OK</sub> | <img src="gallery/celebrates-tests.gif" width="180" alt="Celebrates tests"><br><sub>Celebrates tests</sub> | <img src="gallery/subagents-walk-in.gif" width="180" alt="Subagents walk in"><br><sub>Subagents walk in</sub> |
+| <img src="gallery/loves-pets-mostly.gif" width="180" alt="Loves pets. Mostly."><br><sub>Loves pets. Mostly.</sub> | <img src="gallery/plays-fetch.gif" width="180" alt="Plays fetch"><br><sub>Plays fetch</sub> | <img src="gallery/grab-and-throw.gif" width="180" alt="Grab and throw"><br><sub>Grab and throw</sub> | <img src="gallery/portals-onto-code.gif" width="180" alt="Portals onto code"><br><sub>Portals onto code</sub> | <img src="gallery/crashes-through-walls.gif" width="180" alt="Crashes through walls"><br><sub>Crashes through walls</sub> |
+| <img src="gallery/hyperfocus-mode.gif" width="180" alt="Hyperfocus mode"><br><sub>Hyperfocus mode</sub> | <img src="gallery/sulks-when-you-smash.gif" width="180" alt="Sulks when you smash his tower"><br><sub>Sulks when you smash his tower</sub> | <img src="gallery/naps.gif" width="180" alt="Naps"><br><sub>Naps</sub> |  |  |
 
 ## License
 
