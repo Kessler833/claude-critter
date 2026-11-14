@@ -6,7 +6,7 @@
       "name": "critter",
       "source": "./",
       "description": "A tiny, tokenless desktop pet for the Claude desktop app (Windows)",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ]
 }

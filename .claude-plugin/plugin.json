@@ -1,9 +1,9 @@
 {
   "name": "critter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": { "name": "Hannes Kapsch" },
   "description": "A tiny, tokenless desktop pet that lives in the Claude desktop app on Windows and reacts to everything Claude and you do.",
-  "homepage": "https://github.com/Kessler833/claude-critter",
+  "homepage": "https://github.com/HannesKapsch/claude-critter",
   "license": "MIT",
   "types": "./types/index.d.ts"
 }

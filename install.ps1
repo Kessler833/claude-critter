@@ -1,5 +1,5 @@
 # Claude Critter installer (Windows)
-# Usage:  irm https://raw.githubusercontent.com/Kessler833/claude-critter/main/install.ps1 | iex
+# Usage:  irm https://raw.githubusercontent.com/HannesKapsch/claude-critter/main/install.ps1 | iex
 $ErrorActionPreference = "Stop"
 Write-Host "Claude Critter installer" -ForegroundColor DarkYellow
 
@@ -26,7 +26,7 @@ if (-not $claude) {
 }
 if (-not $claude) { throw "Claude Code CLI not found. Install Claude Code first: https://claude.com/claude-code" }
 $cli = if ($claude.Source) { $claude.Source } else { $claude.FullName }
-& $cli plugin marketplace add Kessler833/claude-critter
+& $cli plugin marketplace add HannesKapsch/claude-critter
 & $cli plugin install critter@claude-critter
 
 Write-Host ""

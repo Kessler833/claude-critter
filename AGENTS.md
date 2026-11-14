@@ -6,11 +6,11 @@ Claude Critter is a Claude Code plugin plus a Python desktop overlay for the Cla
 
 1. Make sure Python 3.10+ is installed and `pythonw` is on PATH.
 2. `python -m pip install --user comtypes`
-3. `claude plugin marketplace add Kessler833/claude-critter`
+3. `claude plugin marketplace add HannesKapsch/claude-critter`
 4. `claude plugin install critter@claude-critter`
 5. Tell the user to restart the Claude desktop app.
 
-Or run the installer: `irm https://raw.githubusercontent.com/Kessler833/claude-critter/main/install.ps1 | iex`
+Or run the installer: `irm https://raw.githubusercontent.com/HannesKapsch/claude-critter/main/install.ps1 | iex`
 
 ## Use
 

@@ -34,14 +34,14 @@ A tiny, tokenless desktop pet that lives in the **Claude desktop app** on Window
 One line in PowerShell:
 
 ```powershell
-irm https://raw.githubusercontent.com/Kessler833/claude-critter/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/HannesKapsch/claude-critter/main/install.ps1 | iex
 ```
 
 Or by hand:
 
 ```powershell
 python -m pip install --user comtypes
-claude plugin marketplace add Kessler833/claude-critter
+claude plugin marketplace add HannesKapsch/claude-critter
 claude plugin install critter@claude-critter
 ```
 
